@@ -38,7 +38,8 @@ How has NFT market activity changed over the last 30 days, and which NFT collect
 
 Dune Dashboard
 
-https://dune.com/onchain23/nft-market-analytics-dashboard?utm_source=share&utm_medium=copy&utm_campaign=dashboard
+https://dune.com/onchain23/nft-market-analytics-dashboard?utm_source=share&utm_medium=copy&utm_campaign=dashboard    
+
 nft
 ethereum
 web3
